@@ -1,0 +1,542 @@
+{
+    "Mean Reversion": "IBM",
+    "Total Profit": 80.15516290092852,
+    "Returns": 1.5221056297053022,
+    "total time": 0.3276336193084717
+}
+{
+    "Simple Moving Average": "IBM",
+    "Total Profit": 32.07143271882575,
+    "Returns": 0.6090201370356645,
+    "total time": 0.49968934059143066
+}
+{
+    "Bollinger": "IBM",
+    "Total Profit": -91.94240533090979,
+    "Number of Short Sells": 123,
+    "Returns": -1.7459393468615039,
+    "total time": 1.916203260421753
+}
+{
+    "Mean Reversion": "MSFT",
+    "Total Profit": 159.97697524921622,
+    "Returns": 5.5405949865391335,
+    "total time": 0.2101583480834961
+}
+{
+    "Simple Moving Average": "MSFT",
+    "Total Profit": 42.00186269979562,
+    "Returns": 1.4546800221548308,
+    "total time": 0.523292064666748
+}
+{
+    "Bollinger": "MSFT",
+    "Total Profit": -157.6741726857285,
+    "Number of Short Sells": 157,
+    "Returns": -5.4608404073668915,
+    "total time": 4.821347713470459
+}
+{
+    "Mean Reversion": "KO",
+    "Total Profit": 40.62368894459897,
+    "Returns": 2.6103527592195443,
+    "total time": 0.15865230560302734
+}
+{
+    "Simple Moving Average": "KO",
+    "Total Profit": 9.195069723185583,
+    "Returns": 0.5908467755320571,
+    "total time": 0.5766353607177734
+}
+{
+    "Bollinger": "KO",
+    "Total Profit": -35.05435881621487,
+    "Number of Short Sells": 91,
+    "Returns": -2.2524848096234793,
+    "total time": 0.10350418090820312
+}
+{
+    "Mean Reversion": "IBM",
+    "Total Profit": 80.15516290092852,
+    "Returns": 1.5221056297053022,
+    "total time": 0.21561360359191895
+}
+{
+    "Simple Moving Average": "IBM",
+    "Total Profit": 32.07143271882575,
+    "Returns": 0.6090201370356645,
+    "total time": 0.723595142364502
+}
+{
+    "Bollinger": "IBM",
+    "Total Profit": -91.94240533090979,
+    "Number of Short Sells": 123,
+    "Returns": -1.7459393468615039,
+    "total time": 0.11496710777282715
+}
+{
+    "Mean Reversion": "MSFT",
+    "Total Profit": 159.97697524921622,
+    "Returns": 5.5405949865391335,
+    "total time": 0.23613524436950684
+}
+{
+    "Simple Moving Average": "MSFT",
+    "Total Profit": 42.00186269979562,
+    "Returns": 1.4546800221548308,
+    "total time": 0.48374390602111816
+}
+{
+    "Bollinger": "MSFT",
+    "Total Profit": -157.6741726857285,
+    "Number of Short Sells": 157,
+    "Returns": -5.4608404073668915,
+    "total time": 6.639263153076172
+}
+{
+    "Mean Reversion": "KO",
+    "Total Profit": 40.62368894459897,
+    "Returns": 2.6103527592195443,
+    "total time": 0.17623496055603027
+}
+{
+    "Simple Moving Average": "KO",
+    "Total Profit": 9.195069723185583,
+    "Returns": 0.5908467755320571,
+    "total time": 0.25496697425842285
+}
+{
+    "Bollinger": "KO",
+    "Total Profit": -35.05435881621487,
+    "Number of Short Sells": 91,
+    "Returns": -2.2524848096234793,
+    "total time": 0.532080888748169
+}
+{
+    "Mean Reversion": "IBM",
+    "Total Profit": 80.15516290092852,
+    "Returns": 1.5221056297053022,
+    "total time": 0.18992233276367188
+}
+{
+    "Simple Moving Average": "IBM",
+    "Total Profit": 32.07143271882575,
+    "Returns": 0.6090201370356645,
+    "total time": 0.5129659175872803
+}
+{
+    "Bollinger": "IBM",
+    "Total Profit": -91.94240533090979,
+    "Number of Short Sells": 123,
+    "Returns": -1.7459393468615039,
+    "total time": 0.10269880294799805
+}
+{
+    "Mean Reversion": "MSFT",
+    "Total Profit": 159.97697524921622,
+    "Returns": 5.5405949865391335,
+    "total time": 0.19768834114074707
+}
+{
+    "Simple Moving Average": "MSFT",
+    "Total Profit": 42.00186269979562,
+    "Returns": 1.4546800221548308,
+    "total time": 0.42996740341186523
+}
+{
+    "Mean Reversion": "IBM",
+    "Total Profit": 80.15516290092852,
+    "Returns": 1.5221056297053022,
+    "total time": 0.19001984596252441
+}
+{
+    "Simple Moving Average": "IBM",
+    "Total Profit": 32.07143271882575,
+    "Returns": 0.6090201370356645,
+    "total time": 0.37363100051879883
+}
+{
+    "Bollinger": "IBM",
+    "Total Profit": -91.94240533090979,
+    "Number of Short Sells": 123,
+    "Returns": -1.7459393468615039,
+    "total time": 0.1383986473083496
+}
+{
+    "Mean Reversion": "KO",
+    "Total Profit": 40.62368894459897,
+    "Returns": 2.6103527592195443,
+    "total time": 0.15265440940856934
+}
+{
+    "Simple Moving Average": "KO",
+    "Total Profit": 9.195069723185583,
+    "Returns": 0.5908467755320571,
+    "total time": 0.20989084243774414
+}
+{
+    "Bollinger": "KO",
+    "Total Profit": -35.05435881621487,
+    "Number of Short Sells": 91,
+    "Returns": -2.2524848096234793,
+    "total time": 0.270280122756958
+}
+{
+    "Mean Reversion": "MSFT",
+    "Total Profit": 159.97697524921622,
+    "Returns": 5.5405949865391335,
+    "total time": 0.19686675071716309
+}
+{
+    "Simple Moving Average": "MSFT",
+    "Total Profit": 42.00186269979562,
+    "Returns": 1.4546800221548308,
+    "total time": 0.33765339851379395
+}
+{
+    "Bollinger": "MSFT",
+    "Total Profit": -157.6741726857285,
+    "Number of Short Sells": 157,
+    "Returns": -5.4608404073668915,
+    "total time": 5.634329080581665
+}
+{
+    "Mean Reversion": "AMZN",
+    "Total Profit": 122.76331999999996,
+    "Returns": 35.516655576450155,
+    "total time": 0.2372887134552002
+}
+{
+    "Simple Moving Average": "AMZN",
+    "Total Profit": 65.61766999999982,
+    "Returns": 18.98384782294223,
+    "total time": 0.5185642242431641
+}
+{
+    "Mean Reversion": "IBM",
+    "Total Profit": 80.15516290092852,
+    "Returns": 1.5221056297053022,
+    "total time": 0.178070068359375
+}
+{
+    "Simple Moving Average": "IBM",
+    "Total Profit": 32.07143271882575,
+    "Returns": 0.6090201370356645,
+    "total time": 0.46417784690856934
+}
+{
+    "Bollinger": "IBM",
+    "Total Profit": -91.94240533090979,
+    "Number of Short Sells": 123,
+    "Returns": -1.7459393468615039,
+    "total time": 0.10753059387207031
+}
+{
+    "Mean Reversion": "KO",
+    "Total Profit": 40.62368894459897,
+    "Returns": 2.6103527592195443,
+    "total time": 0.1513216495513916
+}
+{
+    "Simple Moving Average": "KO",
+    "Total Profit": 9.195069723185583,
+    "Returns": 0.5908467755320571,
+    "total time": 0.22318291664123535
+}
+{
+    "Bollinger": "KO",
+    "Total Profit": -35.05435881621487,
+    "Number of Short Sells": 91,
+    "Returns": -2.2524848096234793,
+    "total time": 0.21740198135375977
+}
+{
+    "Mean Reversion": "MSFT",
+    "Total Profit": 159.97697524921622,
+    "Returns": 5.5405949865391335,
+    "total time": 0.19543886184692383
+}
+{
+    "Simple Moving Average": "MSFT",
+    "Total Profit": 42.00186269979562,
+    "Returns": 1.4546800221548308,
+    "total time": 0.3577280044555664
+}
+{
+    "Bollinger": "MSFT",
+    "Total Profit": -157.6741726857285,
+    "Number of Short Sells": 157,
+    "Returns": -5.4608404073668915,
+    "total time": 5.344454288482666
+}
+{
+    "Mean Reversion": "AMZN",
+    "Total Profit": 122.76331999999996,
+    "Returns": 35.516655576450155,
+    "total time": 0.3463470935821533
+}
+{
+    "Simple Moving Average": "AMZN",
+    "Total Profit": 65.61766999999982,
+    "Returns": 18.98384782294223,
+    "total time": 0.2525768280029297
+}
+{
+    "Mean Reversion": "IBM",
+    "Total Profit": 80.15516290092852,
+    "Returns": 1.5221056297053022,
+    "total time": 0.16999506950378418
+}
+{
+    "Simple Moving Average": "IBM",
+    "Total Profit": 32.07143271882575,
+    "Returns": 0.6090201370356645,
+    "total time": 0.3238699436187744
+}
+{
+    "Bollinger": "IBM",
+    "Total Profit": -91.94240533090979,
+    "Number of Short Sells": 123,
+    "Returns": -1.7459393468615039,
+    "total time": 0.24993443489074707
+}
+{
+    "Mean Reversion": "KO",
+    "Total Profit": 40.62368894459897,
+    "Returns": 2.6103527592195443,
+    "total time": 0.15159916877746582
+}
+{
+    "Simple Moving Average": "KO",
+    "Total Profit": 9.195069723185583,
+    "Returns": 0.5908467755320571,
+    "total time": 0.3697049617767334
+}
+{
+    "Bollinger": "KO",
+    "Total Profit": -35.05435881621487,
+    "Number of Short Sells": 91,
+    "Returns": -2.2524848096234793,
+    "total time": 0.18519258499145508
+}
+{
+    "Mean Reversion": "MSFT",
+    "Total Profit": 159.97697524921622,
+    "Returns": 5.5405949865391335,
+    "total time": 0.20904088020324707
+}
+{
+    "Simple Moving Average": "MSFT",
+    "Total Profit": 42.00186269979562,
+    "Returns": 1.4546800221548308,
+    "total time": 0.50783371925354
+}
+{
+    "Bollinger": "MSFT",
+    "Total Profit": -157.6741726857285,
+    "Number of Short Sells": 157,
+    "Returns": -5.4608404073668915,
+    "total time": 0.24688339233398438
+}
+{
+    "Mean Reversion": "AMZN",
+    "Total Profit": 122.76331999999996,
+    "Returns": 35.516655576450155,
+    "total time": 0.23718905448913574
+}
+{
+    "Simple Moving Average": "AMZN",
+    "Total Profit": 65.61766999999982,
+    "Returns": 18.98384782294223,
+    "total time": 0.5513830184936523
+}
+{
+    "Mean Reversion": "IBM",
+    "Total Profit": 80.15516290092852,
+    "Returns": 1.5221056297053022,
+    "total time": 0.18458056449890137
+}
+{
+    "Simple Moving Average": "IBM",
+    "Total Profit": 32.07143271882575,
+    "Returns": 0.6090201370356645,
+    "total time": 0.20766305923461914
+}
+{
+    "Bollinger": "IBM",
+    "Total Profit": -91.94240533090979,
+    "Number of Short Sells": 123,
+    "Returns": -1.7459393468615039,
+    "total time": 0.9506447315216064
+}
+{
+    "Mean Reversion": "KO",
+    "Total Profit": 40.62368894459897,
+    "Returns": 2.6103527592195443,
+    "total time": 0.17641329765319824
+}
+{
+    "Simple Moving Average": "KO",
+    "Total Profit": 9.195069723185583,
+    "Returns": 0.5908467755320571,
+    "total time": 0.5339982509613037
+}
+{
+    "Bollinger": "KO",
+    "Total Profit": -35.05435881621487,
+    "Number of Short Sells": 91,
+    "Returns": -2.2524848096234793,
+    "total time": 0.12248063087463379
+}
+{
+    "Mean Reversion": "MSFT",
+    "Total Profit": 159.97697524921622,
+    "Returns": 5.5405949865391335,
+    "total time": 0.20448684692382812
+}
+{
+    "Simple Moving Average": "MSFT",
+    "Total Profit": 42.00186269979562,
+    "Returns": 1.4546800221548308,
+    "total time": 0.18321847915649414
+}
+{
+    "Bollinger": "MSFT",
+    "Total Profit": -157.6741726857285,
+    "Number of Short Sells": 157,
+    "Returns": -5.4608404073668915,
+    "total time": 7.477230787277222
+}
+{
+    "Mean Reversion": "AMZN",
+    "Total Profit": 122.76331999999996,
+    "Returns": 35.516655576450155,
+    "total time": 0.2616286277770996
+}
+{
+    "Simple Moving Average": "AMZN",
+    "Total Profit": 65.61766999999982,
+    "Returns": 18.98384782294223,
+    "total time": 0.5383546352386475
+}
+{
+    "Bollinger": "AMZN",
+    "Total Profit": -41.714719999999915,
+    "Number of Short Sells": 205,
+    "Returns": -12.068485462172692,
+    "total time": 0.4320971965789795
+}
+{
+    "Mean Reversion": "ABNB",
+    "Total Profit": 57.08000000000003,
+    "Returns": 0.394444060534863,
+    "total time": 0.050176143646240234
+}
+{
+    "Simple Moving Average": "ABNB",
+    "Total Profit": -58.099999999999994,
+    "Returns": -0.4014926404533204,
+    "total time": 0.1248311996459961
+}
+{
+    "Bollinger": "ABNB",
+    "Total Profit": -115.20000000000002,
+    "Number of Short Sells": 27,
+    "Returns": -0.7960749084375649,
+    "total time": 0.04178428649902344
+}
+{
+    "Mean Reversion": "ADBE",
+    "Total Profit": 449.86096258939097,
+    "Returns": 26.437349518408833,
+    "total time": 0.24385333061218262
+}
+{
+    "Simple Moving Average": "ADBE",
+    "Total Profit": -25.526039985338713,
+    "Returns": -1.5001098051026884,
+    "total time": 0.6245713233947754
+}
+{
+    "Bollinger": "ADBE",
+    "Total Profit": -530.5246882108977,
+    "Number of Short Sells": 210,
+    "Returns": -31.17778108517109,
+    "total time": 0.1446526050567627
+}
+{
+    "Mean Reversion": "TSLA",
+    "Total Profit": -58.073699999999334,
+    "Returns": -36.46318543323517,
+    "total time": 0.15644097328186035
+}
+{
+    "Simple Moving Average": "TSLA",
+    "Total Profit": 213.70468666666432,
+    "Returns": 134.18042277103214,
+    "total time": 0.30667591094970703
+}
+{
+    "Bollinger": "TSLA",
+    "Total Profit": 360.8288799999982,
+    "Number of Short Sells": 134,
+    "Returns": 226.55643365424703,
+    "total time": 0.18303155899047852
+}
+{
+    "Mean Reversion": "AMC",
+    "Total Profit": -56.4102087828119,
+    "Returns": -4.144772015484937,
+    "total time": 0.11201238632202148
+}
+{
+    "Simple Moving Average": "AMC",
+    "Total Profit": 54.27030816094342,
+    "Returns": 3.987541606223594,
+    "total time": 0.12732720375061035
+}
+{
+    "Bollinger": "AMC",
+    "Total Profit": 71.12843552048317,
+    "Number of Short Sells": 97,
+    "Returns": 5.226202054766226,
+    "total time": 0.22225260734558105
+}
+{
+    "Mean Reversion": "ZI",
+    "Total Profit": 9.799999999999965,
+    "Returns": 0.28823529411764603,
+    "total time": 0.06340432167053223
+}
+{
+    "Simple Moving Average": "ZI",
+    "Total Profit": 5.47999999999999,
+    "Returns": 0.161176470588235,
+    "total time": 0.13557839393615723
+}
+{
+    "Bollinger": "ZI",
+    "Total Profit": -69.24999999999994,
+    "Number of Short Sells": 40,
+    "Returns": -2.0367647058823515,
+    "total time": 0.06532788276672363
+}
+{
+    "Mean Reversion": "DIS",
+    "Total Profit": 2.4268164135579013,
+    "Returns": 0.12248332796065213,
+    "total time": 0.1992814540863037
+}
+{
+    "Simple Moving Average": "DIS",
+    "Total Profit": 65.18332918989819,
+    "Returns": 3.2898537533082175,
+    "total time": 0.3682434558868408
+}
+{
+    "Bollinger": "DIS",
+    "Total Profit": 82.46889049522724,
+    "Number of Short Sells": 144,
+    "Returns": 4.1622695909943515,
+    "total time": 0.18624615669250488
+}
