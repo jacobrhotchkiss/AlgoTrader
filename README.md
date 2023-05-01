@@ -18,13 +18,10 @@ Python 3.6 or higher
 Alpaca API keys
 pandas, numpy, alpaca_trade_api, and matplotlib Python packages
 Usage
+
 Clone this repository to your local machine.
 
-Open the config.py file and enter your Alpaca API keys.
-
-Open the main.py file and adjust the SYMBOL and INTERVAL variables to match the stock you want to trade and the timeframe you want to use.
-
-Run the main.py file.
+To trade different stocks just change the tickers in the list tickers.
 
 Disclaimer
 This project is for educational purposes only and should not be used for real trading without proper testing and risk management. The author is not responsible for any losses incurred while using this software.
